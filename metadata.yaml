@@ -1,0 +1,24 @@
+_repo: Anthologica-Rarissima-The-Way-of-a-Virgin-Being-excerpts-from-rare-curious-and-diverting-book__52059
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Brovan, L. C.
+    gutenberg_agent_id: '46649'
+    url: http://www.gutenberg.org/2009/agents/46649
+description: ''
+gutenberg_issued: '2016-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories'
+- !lcc 'PN'
+- !lcsh 'Sex customs -- Fiction'
+- GITenberg
+title: "Anthologica Rarissima: The Way of a Virgin\r\nBeing excerpts from rare, curious\
+  \ and diverting books"
+url: http://www.gutenberg.org/ebooks/52059
